@@ -1,0 +1,7 @@
+:root{
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  font-family:'Courier New', Courier, monospace;
+  /* color: rgb(60, 96, 125); */
+}

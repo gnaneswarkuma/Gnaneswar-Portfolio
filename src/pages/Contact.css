@@ -1,0 +1,88 @@
+.contact {
+  width: 100vw;
+  height: 100vh;
+  /* background: url("https://contentstatic.techgig.com/photo/81953330/5-ways-to-become-a-better-coder.jpg?50338") no-repeat center/cover; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.overlay {
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.7);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* .container {
+  max-width: 900px;
+  background: rgba(255, 255, 255, 0.15);
+  padding: 40px;
+  border-radius: 12px;
+  backdrop-filter: blur(12px);
+  color: whitesmoke;
+  text-align: center;
+} */
+
+.h22 {
+  font-size: 80px;
+  margin-bottom: 20px;
+  text-shadow: 2px 2px 10px rgba(255, 255, 255, 0.3);
+}
+
+.text {
+  font-size: 1.2rem;
+  text-align: left;
+  line-height: 1.8;
+}
+.contact-details{
+/* background-color: red; */
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+}
+.contact-details p {
+  padding: 10px 0;
+}
+
+.contact-details a {
+  color: #4cb5f5;
+  text-decoration: none;
+}
+
+.contact-details a:hover {
+  text-decoration: underline;
+}
+
+.buttons {
+  display: flex;
+  gap: 15px;
+  margin-top: 20px;
+}
+
+.buttons {
+  padding: 12px 18px;
+  font-size: 1.2rem;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: 0.3s;
+ position: relative;
+ left: 35vw;
+}
+
+button:hover {
+  transform: scale(1.05);
+}
+
+.email-button {
+  background: #28a745;
+  color: white;
+}
+
+.email-button:hover {
+  background: #218838;
+}

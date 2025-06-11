@@ -1,0 +1,26 @@
+.container{
+    background-color: rgb(37, 35, 35);
+    color:whitesmoke;
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    top:0;
+    left:0;
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+.h22{
+    position: relative;
+    left:40vw;
+    top:5vh;
+    font-size:100px;
+}
+.text{
+    margin:200px;
+   
+    font-family:'Courier New', Courier, monospace;
+}
+p{
+    padding: 10px;
+     font-size: 30px;
+}
