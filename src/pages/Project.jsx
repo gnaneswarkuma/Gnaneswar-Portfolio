@@ -7,7 +7,6 @@ export const Project = () => {
     {
       title: "3D-Weatherapp",
       description: "An interactive weatherapp built using React Three Fiber, featuring realistic physics and dynamic animations.",
-    //   image: "https://via.placeholder.com/300x200",
       link: "https://github.com/gnaneswarkuma/3dweatherapp"
     },
     {
@@ -17,7 +16,7 @@ export const Project = () => {
       link: "https://github.com/gnaneswarkuma/webgallery/tree/master"
     },
     {
-      title: "Catring-services",
+      title: "Catering-services",
       description: "Developed a website where students can know about the information about the events that going to held by the choise.",
       image: "https://via.placeholder.com/300x200",
       link: "https://github.com/gnaneswarkuma/easymoney"

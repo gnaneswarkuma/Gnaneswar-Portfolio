@@ -20,7 +20,7 @@ export const Contact = () => {
                 <p><strong>Email:</strong> gnaneswarkumar.pithain@gmail.com</p>
                 <p><strong>Location:</strong> Visakhapatnam, Andhra Pradesh, India</p>
                 <p><strong>GitHub:</strong> <a href="https://github.com/gnaneswarkuma" target="_blank">github.com/https://gnaneswarkumar</a></p>
-                <p><strong>LinkedIn:</strong> <a href="https://linkedin.com/in/gnaneswar-kumar-pithani-8a8652296" target="_blank">linkedin.com/in/gnaneswar-kumar-pithani-8a8652296</a></p>
+                <p><strong>LinkedIn:</strong> <a href="" target="_blank">linkedin.com/in/gnaneswar-kumar-pithani-8a8652296</a></p>
               </div>
 
               <div className="buttons">
